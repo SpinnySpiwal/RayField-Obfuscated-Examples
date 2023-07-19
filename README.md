@@ -6,7 +6,7 @@ The project is currently in development and not yet available for use. The examp
 
 ## Planned Features
 The planned features for this project are:
-* OneTime (Working Feature, Configurable) (once you have used RayPass) it will automatically disable. Leaving zero trace of it's presence.
+* OneTime (Working Feature, Configurable) (once you have used RayPass) it will automatically disable. Leaving zero trace of its presence.
 * Automatically copies the key to your clipboard when the UI loads. (Done)
 * Add a notification so when it grabs the key, it gives you a notification for you to copy the key. (Working On It)
 * Working with all of RayField key methods, link, table (multiple), single key, etc. (Done)
