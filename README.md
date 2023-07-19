@@ -4,7 +4,7 @@ RayPass is a Key-System bypass project currently under development for the [Rayf
 ## Project Status
 The project is currently in development and not yet available for use. The examples provided in this repository are for the script.
 
-## Planned Features
+## Planned Features
 The planned features for this project are:
 * OneTime (Working Feature, Configurable) (once you have used RayPass) it will automatically disable. Leaving zero trace of it's presence.
 * Automatically copies the key to your clipboard when the UI loads. (Done)
