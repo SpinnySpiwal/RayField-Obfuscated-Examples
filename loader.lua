@@ -6,7 +6,7 @@
 | |  \ \ / ___ || |_| || |     / ___ ||___ ||___ |
 |_|   |_|\_____| \__  ||_|     \_____|(___/ (___/ 
                 (____/                            
-A new way to bypass keysystems.
+A new way to bypass the rayfield Key-System.
 
 Coming soon to an internet near you.
 ]]
