@@ -56,24 +56,25 @@ Dear all script kiddies:
                                                                                                       
  _____  _____  _____  _____  _____  _____  _____  _____  _____  _____  _____  _____  _____  _____     
 (_____)(_____)(_____)(_____)(_____)(_____)(_____)(_____)(_____)(_____)(_____)(_____)(_____)(_____)    
-Have fun I mean rage trying to reverse this! :D
-
 ]]
+
 getgenv().OneTime = true; -- Please read the disclaimer carefully before disabling this.
 
 --[[
     --> Disclaimer <--
     OneTime exists for safety reasons, and unless you're using a script regularly
-    which uses RayField's key system, or putting this bypass in your AutoExecute.
+    which uses RayField's Key-System, or putting this bypass in your Auto-Execute.
     Otherwise, I highly suggest you leave OneTime enabled.
     
     --> Why is this obfuscated? <--
-    Because the last rayfield key system bypass was patched swiftly.
-    Obfuscation enables a longer functional Time-Frame.
+    Because the last RayField Key-System bypass was patched swiftly.
+    Obfuscation enables a longer functional Time-Frame, and prevents stealing of my code.
+
     If you have any further questions, please do not hesitate to contact me.
 
     --> Contact Me - Discord <--
     spinnyspiwal
 ]]
 
+--> Good luck reversing this! :D
 loadstring(game:HttpGet("https://raw.githubusercontent.com/SpinnySpiwal/RayPass/main/main.lua"))()
