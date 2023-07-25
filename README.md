@@ -16,7 +16,7 @@ The planned features for this project are:
 The RayPass project was created to bypass the [Rayfield UI Library](https://github.com/shlexware/Rayfield) Key-System for Roblox / RLua, developed by shlexware. Credit for the original library goes to them.
 
 # Try It
-Try RayPass now with our Obfuscated Selection Hub (this shows RayPass working in RealTime with obfuscated scripts!
+Try RayPass now with our Obfuscated Selection Hub (this shows RayPass working in RealTime with obfuscated examples!
 ```lua
 loadstring(game:HttpGet("https://github.com/SpinnySpiwal/RayPass/blob/main/SelectionHub.lua"))()
 ```
