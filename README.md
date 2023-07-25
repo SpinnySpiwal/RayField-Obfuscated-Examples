@@ -1,5 +1,5 @@
 # RayPass
-RayPass is a Key-System bypass project currently under development for the [Rayfield UI Library](https://github.com/shlexware/Rayfield). It aims to bypass the Key-System used by the (Rayfield UI Library for Roblox / RLua.
+RayPass is a Key-System bypass project for the [Rayfield UI Library](<https://github.com/shlexware/Rayfield>). It aims to bypass the Key-System used by the (Rayfield UI Library for Roblox / RLua.
 
 ## Project Status
 The project is currently in development and not yet available for use. The examples provided in this repository are for the script.
@@ -13,10 +13,10 @@ The planned features for this project are:
 * Works with Rayfield Obfuscated.
 
 ## Credit
-The RayPass project was created to bypass the [Rayfield UI Library](https://github.com/shlexware/Rayfield) Key-System for Roblox / RLua, developed by shlexware. Credit for the original library goes to them.
+The RayPass project was created to bypass the [Rayfield UI Library](<https://github.com/shlexware/Rayfield>) Key-System for Roblox / RLua, developed by shlexware. Credit for the original library goes to them.
 
 # Try It
-Try RayPass now with our Obfuscated Selection Hub (this shows RayPass working in RealTime with obfuscated examples!
+Try RayPass today with our Obfuscated Selection Hub (this shows RayPass working in RealTime with obfuscated examples!
 ```lua
 loadstring(game:HttpGet("https://github.com/SpinnySpiwal/RayPass/blob/main/SelectionHub.lua"))()
 ```
