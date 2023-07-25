@@ -20,3 +20,13 @@ Try RayPass today with our Obfuscated Selection Hub (this shows RayPass working 
 ```lua
 loadstring(game:HttpGet("https://github.com/SpinnySpiwal/RayPass/blob/main/SelectionHub.lua"))()
 ```
+
+# How Do I use RayPass With My Own Script?
+
+```lua
+--> RayPass Loader <--
+loadstring(game:HttpGet("https://github.com/SpinnySpiwal/RayPass/blob/main/loader.lua"))()
+
+--> Put your RayField script / loader below here ⬇️ <--
+
+```
